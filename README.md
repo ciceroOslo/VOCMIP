@@ -1,3 +1,8 @@
+# VOCMIP input data repository
+
+This is a input data repostitory for the [VOCMIP](https://cicero.oslo.no/en/projects/vocmip) experiment [GMD - Introducing Volatile Organic Compound Model Intercomparison Project (VOCMIP)](https://gmd.copernicus.org/articles/19/2577/2026/)
+
+
 # Emissions
 
 ## Emission Inputs

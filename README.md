@@ -2,6 +2,7 @@
 
 This is a input data repostitory for the [VOCMIP](https://cicero.oslo.no/en/projects/vocmip) experiment [GMD - Introducing Volatile Organic Compound Model Intercomparison Project (VOCMIP)](https://gmd.copernicus.org/articles/19/2577/2026/)
 
+[![DOI](https://zenodo.org/badge/1211232491.svg)](https://doi.org/10.5281/zenodo.19610112)
 
 # Emissions
 

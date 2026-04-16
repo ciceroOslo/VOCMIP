@@ -83,7 +83,7 @@ The format of the file name should be:
 Exceptions are for `table_id` `fixed`:
 
 ```text
-<variable_id>_<table_id>_<model_id>_hyway.nc
+<variable_id>_<table_id>_<model_id>_vocmip.nc
 ```
 
 These are fixed variables that do not change by time and experiments.
